@@ -6,7 +6,7 @@ Scripts to split the Image datasets into train and test sets
 
 Heirarchy of the setup: 
 
-Place the script in the same directory as the images ([dowloaded](http://www.vision.caltech.edu/visipedia/CUB-200.html)) and the train/test text split files ([download](http://www.vision.caltech.edu/visipedia/CUB-200.html))
+Place the script in the same directory as the images ([dowload](http://www.vision.caltech.edu/visipedia/CUB-200.html)) and the train/test text split files ([download](http://www.vision.caltech.edu/visipedia/CUB-200.html))
 
 ```
   |
